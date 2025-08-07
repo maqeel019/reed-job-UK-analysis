@@ -1,5 +1,5 @@
 
-# 🇬🇧 UK Job Market Analysis — Data Roles from Reed.co.uk
+# 🇬🇧 UK Job Listings Analysis — Live Data from Reed.co.uk
 
 This project fetches and analyzes **real-time job listings** from the [Reed.co.uk API](https://www.reed.co.uk/developer), supporting **any job role** such as **Data Analyst**, **Web Developer**, **UI/UX Designer**, **Database Administrator**, and more. It performs cleaning, feature engineering, and exploratory data analysis to generate insights that benefit **both job seekers and recruiters**.
 
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/job-market-analysis.git
+git clone https://github.com/maqeel019/reed-job-UK-analysis.git
 cd job-market-analysis
 
 # 2. Set your Reed API key
@@ -101,13 +101,8 @@ job-market-analysis/
 
 ## 🧠 Author
 
-**Muhammad Aqeel**  
-📍 Abbottabad, Pakistan  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) (add your link)  
-📧 <your.email@example.com> (optional)
+**Muhammad Aqeel**
+🔗 [LinkedIn](https://www.linkedin.com/in/aqeelkhan09/)  
+📧 <mailto:maqeelcs09@gmail.com>
 
 ---
-
-## 🏁 License
-
-This project is open source and free to use for learning and non-commercial research purposes.
